@@ -24,7 +24,7 @@ else:
 
 ###Ternário para Controle de Fluxo - Resume situações if - else a uma só linha
 
-(resultado 1) if "condição" else (resultado 2)
+'(resultado 1) if "condição" else (resultado 2)'
 
 ####Ao declarar uma variável
 e = (3 if a == 44 else 0) #Parênteses não é obrigatório.
